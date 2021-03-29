@@ -31,4 +31,4 @@ group :development, :test do
   gem 'dotenv-rails'
 end
 
-gem 'mimemagic', '0.3.5', git: 'https://github.com/mimemagicrb/mimemagic', ref: '01f92d8'
+gem 'mimemagic', '0.3.10'
