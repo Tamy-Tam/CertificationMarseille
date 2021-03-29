@@ -1,0 +1,5 @@
+meta_product_name: "Tamara's certification"
+meta_title: "Tamara's certification - This is my personnal project (given by my school :Le wagon) to try and pass the certification"
+meta_description: "This is my personnal project (given by my school :Le wagon) to try and pass the certification"
+meta_image: "cover.png" # should exist in `app/assets/images/`
+twitter_account: "@product_twitter_account"   # required for Twitter Cards
